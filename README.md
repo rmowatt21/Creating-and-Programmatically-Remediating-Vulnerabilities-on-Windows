@@ -46,6 +46,10 @@ Another vulnerability is an old version of firefox is one of the highest vulnera
 ![image](https://github.com/user-attachments/assets/8c3c0d05-d2fe-4936-b63d-87e1fb758d0e)
 
 
+# Conclusion
+
+In this project, several scans were created using Nessus to test unique environments that showed the vulnerabilities within each. Utilizing the tools available within our Azure vms, we were able to remediate many of the vulnerabilities present in our Windows 10 environment and get hands on practice with using the Nessus software in a live environment.
+
 
 
 
